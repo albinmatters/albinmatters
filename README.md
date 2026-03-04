@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
 
-<!--
-**albinmatters/albinmatters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m [**Albin**](https://albin-aji.onrender.com/), a final year BCA student in IND. I like building projects, Trying different OS and various distros.
 
-Here are some ideas to get you started:
+**These days I’m focused on:**
+- Django, PostgreSql, WebDesign
+- Antigravity 
+- Projects and OS
+- Small, thoughtful projects with fun
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Some stuff I built:**
+- coming soon....lol
+
+---
+
+**Fun Facts:**
+
+* i'm a linux user 
+* I ~don’t~ like coffee or tea
+* Biriyani is my fav food
+* **Hobbies:** system and scrolling
+  
