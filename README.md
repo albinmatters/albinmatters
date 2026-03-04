@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
 
-I’m [**Albin**]([https://albinaji.notion.site/](https://albinaji.notion.site/Albin-matters-f8c0577083c582cab5b4016f043dc764)), a final year BCA student in IND. I like building projects, Trying different OS and various distros.
+I’m [**Albin**]((https://albinaji.notion.site/Albin-matters-f8c0577083c582cab5b4016f043dc764)), a final year BCA student in IND. I like building projects, Trying different OS and various distros.
 
 **These days I’m focused on:**
 - Django, PostgreSql, WebDesign
