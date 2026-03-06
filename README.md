@@ -1,4 +1,4 @@
-# Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> I'm Albin
+# Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> I'm [Albin](https://albinaji.notion.site/Albin-matters-f8c0577083c582cab5b4016f043dc764)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7AB0A&width=435&lines=Hi%2C+I'm+Albin!;BCA+Student;Web+Development;Tech+Explorer;AI+%2F+Network+Enthusiast)](https://git.io/typing-svg)
 
