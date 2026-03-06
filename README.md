@@ -2,8 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7AB0A&width=435&lines=Hi%2C+I'm+Albin!;BCA+Student;Web+Development;Tech+Explorer;AI+%2F+Network+Enthusiast)](https://git.io/typing-svg)
 
-Final year BCA student in IND. I like building projects.
+## Final Year BCA Student | Web Developer
 
+💻I build practical web applications using Django, PHP and PostgreSQL.              
+⚙️Interested in Linux, backend systems and building useful digital tools.
+
+##
 **These days I’m focused on:**
 - Django, PostgreSql, WebDesign
 - Antigravity 
@@ -25,7 +29,8 @@ Final year BCA student in IND. I like building projects.
 
 ---
 **Some stuff I built:**
-- coming soon....lol
+- DVLS – Digital Visitors Log System 
+- WaterRegis – Water management system 
 
 ---
 
@@ -35,6 +40,10 @@ Final year BCA student in IND. I like building projects.
 * I ~don’t~ like coffee or tea
 * Biriyani is my fav food
 * **Hobbies:** system and scrolling
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=albinmatters&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=albinmatters&layout=compact&theme=tokyonight)
+
 ## 🌍 Find me around the web
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albin-aji-99982727b/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/s.i.xty.6/)
