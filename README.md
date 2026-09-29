@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7AB0A&width=435&lines=Hi%2C+I'm+Albin!;BCA+Student;Vibe+Coder;Web+Development;Tech+Explorer;AI+%2F+Network+Enthusiast)](https://git.io/typing-svg)
 
-## Final Year BCA Student | Web Developer
+## First Year MCA Student | Web Developer
 
 💻I build practical web applications using Django, PHP and PostgreSQL.              
 ⚙️Interested in Linux, backend systems and building useful digital tools.
